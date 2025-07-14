@@ -22,8 +22,8 @@ export default function Hero() {
             </div>
             <div className="flex-1">
                 <img 
-                    src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" 
-                    alt="Hero"
+                    src="img/kunal" 
+                    alt="Kunal Nepali"
                     className="w-full h-full object-contain" 
                 />
             </div>

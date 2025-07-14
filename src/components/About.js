@@ -7,7 +7,7 @@ export default function About() {
         >
             <div className="flex-1">
                 <img
-                    src="https://media.geeksforgeeks.org/img-practice/Asset1-1641910145.svg"
+                    src="img/kunal"
                     alt="About"
                     className="w-full h-full bg-cover"
                 />
