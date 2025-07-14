@@ -1,4 +1,3 @@
-// Hero.js
 export default function Hero() {
     return (
       <section
@@ -9,22 +8,21 @@ export default function Hero() {
         <div className="flex-1 flex flex-col justify-center items-center gap-5">
           <div>
             <h4 className="text-center text-xl font-bold">
-                Hi and welcome to
+                Hello!
             </h4>
             <h2 className="text-center text-emerald-500 text-5xl font-bold">
-              My Portfolio Website
+              I'm Kunal Nepali
             </h2>
           </div>
           <p className="text-center">
-            I am your friendly neighbourhood osm developer...
+            I am currently learning Java and love backend development. I enjoy working on real projects and exploring new technologies.
           </p>
         </div>
         <div className="flex-1">
-          <img src=
-  "https://media.geeksforgeeks.org/gfg-gg-logo.svg"
-               alt="Hello.svg"
+          <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg"
+               alt="Hero"
                className="w-full h-full bg-cover"/>
         </div>
       </section>
     );
-  }
+}

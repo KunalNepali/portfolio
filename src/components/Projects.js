@@ -3,9 +3,44 @@ export default function Projects() {
     return (
         <section id="projects"
                  className="my-20 w-full flex flex-col gap-5 align-center max-w-5xl mx-auto">
-            <h2 className="text-5xl text-emerald-500 font-bold text-center">
-                My Projects
-            </h2>
+            <h2 className="font-bold text-3xl text-center">
+    <a className="hover:underline"
+        href="#">
+        Java & SQL Mini Project
+    </a>
+</h2>
+<p>
+    A Student Information System developed using Java and SQL for academic records management.
+</p>
+
+<h2 className="font-bold text-3xl text-center">
+    <a className="hover:underline"
+        href="#">
+        E-commerce Website: Lalitpur Bags
+    </a>
+</h2>
+<p>
+    Developed a full-stack e-commerce platform for a family business using PHP and MySQL.
+</p>
+<h2 className="font-bold text-3xl text-center">
+    <a className="hover:underline"
+        href="#">
+Music Player application
+    </a>
+</h2>
+<p>
+    Developed a music-player web application using Tailwind css, js, html.
+</p>
+<h2 className="font-bold text-3xl text-center">
+    <a className="hover:underline"
+        href="#">
+Music Player application
+    </a>
+</h2>
+<p>
+    Developed a personalized mobile application using java, kotlin.
+</p>
+
             <div className="p-10 bg-emerald-200 flex flex-col justify-center items-center
                             gap-5 lg:flex-row max-w-5xl mx-auto shadow transition 
                             hover:shadow-xl hover:scale-[102%] w-full">

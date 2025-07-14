@@ -1,4 +1,3 @@
-// About.js
 export default function About() {
     return (
         <section
@@ -6,8 +5,7 @@ export default function About() {
             className="px-10 w-full flex flex-col lg:flex-row py-20 
                        align-center bg-emerald-200 max-w-5xl mx-auto">
             <div className="flex-1">
-                <img src=
-"https://media.geeksforgeeks.org/img-practice/Asset1-1641910145.svg"
+                <img src="https://media.geeksforgeeks.org/img-practice/Asset1-1641910145.svg"
                     alt="About"
                     className="w-full h-full bg-cover"/>
             </div>
@@ -20,15 +18,10 @@ export default function About() {
                     </h2>
                 </div>
                 <p>
-                    As I said, I am your friendly
-                    neighbourhood osm developer...
+                    Hi, My name is Kunal Nepali. I am a student at Vedas College, 6th semester, pursuing a degree in BSc.CSIT. 
                 </p>
                 <p>
-                    I am a passionate self taught developer
-                    (which is quite a subjective thing as i learnt from
-                    teachers on youtube so does that really counts?
-                    idk). I am having an experience of about 4 years
-                    and had a deep understanding of creating web products.
+                    I am passionate about backend development and love working on real-life projects. I also enjoy content writing and frontend design.
                 </p>
             </div>
         </section>
