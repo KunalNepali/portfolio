@@ -1,10 +1,10 @@
 // Footer.js
 export default function Footer() {
     return (
-        <section className="p-10 bg-emerald-200 flex justify-center">
-            <p className="font-bold">
-                ©Copyright 2023. All rights are reserved by Geeks for Geeks
+        <footer className="p-10 bg-emerald-200 flex justify-center">
+            <p className="font-bold text-center">
+                © {new Date().getFullYear()} Kunal Nepali. All rights reserved.
             </p>
-        </section>
+        </footer>
     );
 }
