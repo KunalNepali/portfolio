@@ -6,7 +6,6 @@ import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
-import Html from "./components/Index";
 import React from "react";
 
 
